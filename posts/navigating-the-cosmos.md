@@ -1,6 +1,6 @@
 ---
 title: "Navigating the Cosmos with Misspelled Words: A Starship Captain's Frustration"
-date: '2023-07-20'
+date: '2025-07-16'
 ---
 
 *Captain's Log, Stardate 45192.3*
